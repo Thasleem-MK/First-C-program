@@ -12,3 +12,4 @@ C:\Users\moham\Desktop\Bridgeon\Back-End\sample\obj\Debug\net8.0\refint\sample.d
 C:\Users\moham\Desktop\Bridgeon\Back-End\sample\obj\Debug\net8.0\sample.pdb
 C:\Users\moham\Desktop\Bridgeon\Back-End\sample\obj\Debug\net8.0\sample.genruntimeconfig.cache
 C:\Users\moham\Desktop\Bridgeon\Back-End\sample\obj\Debug\net8.0\ref\sample.dll
+C:\Users\moham\Desktop\Bridgeon\Back-End\sample\obj\Debug\net8.0\sample.sourcelink.json

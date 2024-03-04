@@ -12,7 +12,6 @@ namespace Model
     {
         public static void Main(string[] args)
         {
-            Parent Obj1=new Parent();
             Programs Obj2=new Programs();
             Obj2.sum(10,12);
         }
